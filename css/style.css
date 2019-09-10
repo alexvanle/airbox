@@ -139,7 +139,7 @@ body{
     /* padding: 65px 0px 0px 10px; */
 }
 .footer{
-    padding-top: 40px;
+    padding-top: 20px;
     background: #1b1a22;
 }
 .footer h2{
@@ -149,6 +149,14 @@ body{
     margin: 0px;
     padding-left: 50px;
     color: #70678a;
+}
+.footer ul{
+    text-align: right;
+    list-style: none;
+    font-size: 20px;
+}
+.footer li{
+    display: inline-block
 }
 .button--secondary{
     color: white;
