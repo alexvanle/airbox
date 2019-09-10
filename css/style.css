@@ -9,6 +9,15 @@ body{
 .upper{
     border-bottom: 1.2px solid #70678a;
 }
+.upper h1{
+    margin: 0px;
+    padding-top: 36px;
+}
+.upper p{
+    margin: 0px;
+    padding-left: 59px;
+    color: #70678a;
+}
 .header-logo{
     background-color:#736f8d;
     color: white;
@@ -83,11 +92,25 @@ body{
     background-color: #fa8f56;
     border-radius: 95%;
 }
-
+.plans h2{
+    padding: 10px;
+    margin: 0px;
+}
+.plans h3{
+    padding: 10px;
+    margin: 0px;
+}
+.plans p{
+    background: white;
+    padding: 12px;
+    padding-top: 12px;
+    margin: 0px;
+}
 .plans{
-    background: #e8e8ea;
+    background: white;
     text-align: center;
-    padding: 15px;
+    margin: 0;
+    padding: 10px 10px 20px;
 }
 .plans h2{
     color: white;
@@ -107,9 +130,25 @@ body{
 .shop p{
     color: #70678a;
 }
+.sponsors{
+    background-color: #322f41;
+    margin-top: 20px;
+}
 .sponsors img{
     width: 100%;
-    padding: 65px 0px 0px 10px;
+    /* padding: 65px 0px 0px 10px; */
+}
+.footer{
+    padding-top: 40px;
+    background: #1b1a22;
+}
+.footer h2{
+    margin: 0px;
+}
+.footer p{
+    margin: 0px;
+    padding-left: 50px;
+    color: #70678a;
 }
 .button--secondary{
     color: white;
