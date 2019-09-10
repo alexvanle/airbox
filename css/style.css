@@ -154,6 +154,7 @@ body{
     text-align: right;
     list-style: none;
     font-size: 20px;
+    color: white;
 }
 .footer li{
     display: inline-block
